@@ -12,3 +12,9 @@ test4
 test5
 
 test6
+
+$abc = "aaaaaaa";
+
+$test1 = sprintf("%s",$abc);
+
+echo $test1;
