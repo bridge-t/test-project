@@ -19,6 +19,7 @@ $test1 = sprintf("%s",$abc);
 
 echo $test1;
 
+<<<<<<< HEAD
 asdasdasdsa
 
 d
@@ -42,3 +43,8 @@ da
 d
 as
 dfweafewqfwefqfqef
+=======
+
+test001
+test002
+>>>>>>> a060d4d2c0957f4532b5f3c4f37c881dc0488c9c
